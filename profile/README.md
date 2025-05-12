@@ -2,7 +2,7 @@
 
 ## K-ATUSA
 
-This organization is a online laboratory for KATUSA (cycle 06-25) programming club.  
+This organization is an online laboratory for KATUSA (cycle 06-25) programming club.  
 
 We make safe, secure, easy, and useful softwares.
 
