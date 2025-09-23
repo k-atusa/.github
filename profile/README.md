@@ -11,3 +11,5 @@ We make safe, secure, easy, and useful softwares.
 - (TBD)
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=8897FF&height=100&section=footer)
+
+![](https://military-service-progress-svg-16007817766.us-west1.run.app/?startdate=20250304&enddate=20260903)
