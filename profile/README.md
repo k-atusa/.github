@@ -10,6 +10,6 @@ We make safe, secure, easy, and useful softwares.
 
 - (TBD)
 
-![](https://ets-readme-counter.vercel.app/view?startdate=20250304&enddate=20260903)
+![](https://ets-readme-counter.vercel.app/view?startdate=20250304&branch=army)
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=8897FF&height=100&section=footer)
