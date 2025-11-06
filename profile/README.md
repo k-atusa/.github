@@ -45,4 +45,8 @@ We make safe, secure, easy, and useful softwares.
 ![](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
 ![](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ### ETS Counter
-![](https://ets-readme-counter.vercel.app/view?startdate=20250304&branch=army&lang=en)
+<img src="https://ets-readme-counter.vercel.app/view?startdate=20250304&branch=army&lang=en" width="400px">
+
+### Language Stats
+<img src="https://organization-language-readme-stats.vercel.app/k-atusa?exclude=html%2Ccss&max=10&theme=dark" width="400px">
+
